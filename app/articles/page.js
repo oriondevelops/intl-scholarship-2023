@@ -29,7 +29,7 @@ export default function Index() {
         },
         {
             id: 4,
-            title: 'Trash',
+            title: 'Garbage',
             author: 'Mehmet Mutlu',
             translator: 'Ahmet Gökhan Kaya',
             translator_slug: 'ahmet.gokhan.kaya',

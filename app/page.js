@@ -12,7 +12,7 @@ export default function Home() {
                     encyclopedia project <a href="https://100sene100nesne.com/" target="_blank">“100 sene 100 nesne”</a> focusing on objects reflecting the hundred years of the
                     Turkish Republic. The collection will be translated into English to be published as a special
                     dossier in an international academic journal in 2023.</h2>
-                <h3 className="mt-4 text-sm">Translated articles for the 2023 summer term are: "Cloth", "Road", "Stone", "Trash", and
+                <h3 className="mt-4 text-sm">Translated articles for the 2023 summer term are: "Cloth", "Road", "Stone", "Garbage", and
                     "Tree".
                 </h3>
             </main>
