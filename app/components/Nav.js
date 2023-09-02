@@ -17,11 +17,7 @@ export default function Nav() {
         {
             name: "Articles",
             href: "/articles"
-        },
-        {
-            name: "Translations",
-            href: "/translations"
-        },
+        }
     ]
 
     return (
